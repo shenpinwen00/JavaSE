@@ -31,5 +31,5 @@ class circleClass1 implements circleInterface{
 }
 interface circleInterface{
     double PI=3.14;
-    void circleArea();111
+    void circleArea();
 }
