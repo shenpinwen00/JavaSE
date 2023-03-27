@@ -1,4 +1,4 @@
-package com.itheima.polymophic;
+package com.itheima.d8_polymophic;
 
 public class Animal {
     public String name = "父类动物";

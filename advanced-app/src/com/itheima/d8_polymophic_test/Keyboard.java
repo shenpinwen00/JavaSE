@@ -1,9 +1,9 @@
-package com.itheima.polymophic_test;
+package com.itheima.d8_polymophic_test;
 
-public class Mouse implements USB{
+public class Keyboard implements USB{
     private String name;
 
-    public Mouse(String name) {
+    public Keyboard(String name) {
         this.name = name;
     }
 
@@ -11,8 +11,8 @@ public class Mouse implements USB{
     public void connect() {
         System.out.println(name+"成功接入电脑");
     }
-    public void doClick(){
-        System.out.println(name+"点击了！！！～～～～～");
+    public void keyDown(){
+        System.out.println(name+"敲击了～～～～～");
     }
     @Override
     public void unconnect() {

@@ -1,4 +1,4 @@
-package com.itheima.polymophic_test;
+package com.itheima.d8_polymophic_test;
 
 public class Test {
     public static void main(String[] args) {

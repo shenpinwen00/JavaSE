@@ -1,4 +1,4 @@
-package com.itheima.innerclass_anonymous;
+package com.itheima.d7innerclass_anonymous;
 
 /**
  * 掌握匿名内部类的使用形式

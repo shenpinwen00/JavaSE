@@ -1,4 +1,4 @@
-package com.itheima.innerclass_anonymous;
+package com.itheima.d7innerclass_anonymous;
 
 /**
  * 匿名内部类方便创建子类对象。

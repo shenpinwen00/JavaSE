@@ -1,4 +1,4 @@
-package com.itheima.polymophic;
+package com.itheima.d8_polymophic;
 
 public class Tortoise extends Animal{
     public String name = "子类乌龟";

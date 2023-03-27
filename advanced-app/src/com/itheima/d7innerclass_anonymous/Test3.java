@@ -1,4 +1,4 @@
-package com.itheima.innerclass_anonymous;
+package com.itheima.d7innerclass_anonymous;
 
 import javax.swing.*;
 import java.awt.event.ActionEvent;
